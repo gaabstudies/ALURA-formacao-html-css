@@ -1,3 +1,17 @@
+# Curso Layouts Responsivos: trabalhando com layouts mobile
+
+Aprendi a montar a apeperia e fazer uma responsiva, ou seja, que se adapta a diversos dispositivos, também visualizei o processo de desenvolvimento a partir de um layout pronto no Figma e as vantagens de se utilizar o conceito de Mobile First.
+
+
+### ✔️
+
+- Flex container é o elemento que recebe grande parte das propriedades de posicionamento para suas tags filhas;
+- justify-content distribui o espaço restante do flex container entre suas tags filhas 
+-  align-items alinha verticalmente as tags filhas, ou seja, são propriedades de posicionamento horizontal e vertical respectivamente.
+
+
+
+
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
